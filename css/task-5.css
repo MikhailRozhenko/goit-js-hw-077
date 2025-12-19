@@ -1,0 +1,17 @@
+.change-color {
+  border-radius: 8px;
+
+  width: 148px;
+  height: 40px;
+  background: #4e75ff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  display: block;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+}
